@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrdadsadeghizadeh&label=Profile%20views&color=0e75b6&style=flat" alt="mehrdadsadeghizadeh" /> </p>
 
-- I’m currently working on **A restaurant for food and table reservations**
+- I’m currently working on **restaurant website**
 
 - I’m currently learning **Backend, Node.js**
 
